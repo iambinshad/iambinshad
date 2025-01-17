@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter<br>☕ I’m learning how to make good looking UI<br>💬 Ask me about Flutter and Dart<br>😄 Pronouns: he/him/his<br>⚡ Fun fact : i'm just 20
+🔭 I’m currently working on flutter<br>☕ I’m learning clean architecture with bloc<br>💬 Ask me about Flutter and Dart<br>😄 Pronouns: he/him/his<br>⚡ Fun fact : i'm just 20
 
 
 ## 🌐 Socials:
